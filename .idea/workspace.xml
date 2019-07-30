@@ -1,7 +1,790 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a983fc-4bbc-47ab-bc97-f4b2a158169c" name="Default" comment="" />
+    <list default="true" id="a9a983fc-4bbc-47ab-bc97-f4b2a158169c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000004.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000007.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000020.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000026.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000054.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000071.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000074.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000082.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000132.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000188.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000190.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000195.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000343.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000456.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000465.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000536.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000663.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000748.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000788.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000809.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000906.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000911.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000916.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/000961.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001112.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001218.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001445.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001561.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001595.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001604.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001626.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001644.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001897.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/001965.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002024.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002177.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002214.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002216.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002229.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002278.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002317.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002374.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002424.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002436.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002699.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002716.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/002920.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/003016.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Annotations/003021.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0020__1__3696___2772.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0020__1__4034___2772.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0020__1__924___3415.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___1201.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___924-1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___924-2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___924-3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___924-4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__0___924-5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__876___0 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__876___0 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__876___0 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__876___0 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0042__1__876___0 5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___1848 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___1848 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___1848 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___1848 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___1848 5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__1848___924 8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__2772___924 9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0113__1__924___924 9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0119__1__1573___924 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0119__1__1573___924 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0119__1__1573___924 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0128__1__0___924 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0128__1__0___924 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0128__1__0___924 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0128__1__0___924 4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0168__1__924___0 1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0168__1__924___0 2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0168__1__924___0 3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/dataset/ann/P0168__1__924___0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/deal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/deal2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design.ui" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gif.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/001.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/002.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/003.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/004.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/005.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/006.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/007.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/008.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/009.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/010.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/011.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/012.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/013.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/014.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/015.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/016.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/017.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/018.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/019.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/020.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/021.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/022.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/023.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/024.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/025.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/026.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/027.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/028.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/029.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/030.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/031.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/032.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/033.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/034.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/035.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/036.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/037.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/038.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/039.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/040.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/041.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/042.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/043.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/044.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/045.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/046.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/047.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/048.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/049.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/050.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/051.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/052.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/053.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/054.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/055.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/056.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/057.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/058.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/059.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/060.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/061.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/062.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/063.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/064.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/065.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/066.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/067.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/068.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/069.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/070.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/071.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/072.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/073.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/074.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/075.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/076.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/077.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/078.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/079.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/080.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/081.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/082.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/083.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/084.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/085.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/086.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/087.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/088.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/089.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/090.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/091.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/092.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/093.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/094.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/095.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/096.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/097.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/098.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/099.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/100.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/101.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/102.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/103.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/104.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/105.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/106.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/107.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/108.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/109.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/110.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/111.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/112.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/113.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/114.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/115.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/116.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/117.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/118.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/119.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/120.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/121.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/122.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/123.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/124.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/125.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/126.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/127.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/128.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/129.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/130.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/131.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/132.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/133.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/134.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/135.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/136.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/137.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/138.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/139.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/140.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/141.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/142.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/143.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/144.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/145.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/146.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/147.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/148.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/149.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/150.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/151.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/152.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/153.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/154.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/155.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/156.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/157.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/158.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/159.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/160.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/161.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/162.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/163.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/164.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/165.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/166.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/167.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/168.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/169.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/170.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/171.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/172.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/173.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/174.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/175.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/176.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/177.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/178.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/179.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/180.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/181.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/182.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/183.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/184.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/185.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/186.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/187.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/188.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/189.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/190.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/191.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/192.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/193.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/194.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/195.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/196.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/197.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/198.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/199.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/200.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/201.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/202.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/203.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/204.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/205.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/206.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/207.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/208.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/209.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/210.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/211.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/212.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/213.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/214.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/215.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/216.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/217.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/218.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/219.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/220.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/221.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/222.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/223.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/224.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/225.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/226.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/227.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/228.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/229.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/230.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/231.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/232.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/233.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/234.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/235.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/236.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/237.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/238.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/239.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/240.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/241.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/242.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/243.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/244.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/245.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/246.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/247.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/248.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/249.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/250.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/251.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/252.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/253.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/254.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/255.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/256.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/257.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/258.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/259.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/260.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/261.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/262.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/263.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/264.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/265.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/266.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/267.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/268.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/269.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/270.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/271.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/272.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/273.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/274.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/275.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/276.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/277.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/278.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/279.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/280.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/281.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/282.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/283.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/284.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/285.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/286.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/287.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/288.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/289.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/290.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/291.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/292.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/293.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/294.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/295.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/296.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/297.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/298.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/299.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/300.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/301.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/302.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/303.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/304.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/305.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/306.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/307.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/308.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/309.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/310.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/311.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/312.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/313.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/314.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/315.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/316.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/317.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/318.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/319.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/320.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/321.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/322.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/323.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/324.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/325.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/326.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/327.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/328.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/329.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/330.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/331.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/332.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/333.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/334.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/335.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/336.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/337.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/338.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/339.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/340.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/341.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/342.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/343.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/344.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/345.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/346.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/347.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/348.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/349.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/350.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/351.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/352.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/353.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/354.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/355.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/356.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/357.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/358.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/359.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/360.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/361.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/362.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/363.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/364.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/365.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/366.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/367.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/368.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/369.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/370.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/371.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/372.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/373.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/374.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/375.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/376.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/377.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/378.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/379.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/380.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/381.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/382.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/383.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/384.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/385.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/386.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/387.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/388.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/389.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/390.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/391.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/392.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/393.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/394.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/395.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/396.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/397.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/398.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/399.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/400.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/401.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/402.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/403.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/404.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/405.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/406.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/407.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/408.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/409.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/410.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/411.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/412.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/413.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/414.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/415.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/416.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/417.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/418.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/419.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/420.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/421.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/422.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/423.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/424.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/425.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/426.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/427.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/428.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/429.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/430.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/431.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/432.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/433.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/434.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/435.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/436.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/437.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/438.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/439.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/440.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/441.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/442.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/443.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/444.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/445.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/446.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/447.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/448.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/449.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/450.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/451.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/452.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/453.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/454.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/455.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/456.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/457.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/458.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/459.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/460.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/461.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/462.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/463.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/464.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/465.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/466.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/467.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/468.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/469.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/470.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/471.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/472.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/473.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/474.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/475.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/476.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/477.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/478.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/479.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/480.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/481.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/482.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/483.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/484.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/485.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/486.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/487.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/488.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/489.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/490.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/491.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/492.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/493.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/494.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/495.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/496.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/497.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/498.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/499.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/500.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/501.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/502.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/503.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/504.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/505.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/506.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/507.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/508.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/509.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/510.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/511.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/512.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/513.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/514.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/515.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/516.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/517.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/518.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/519.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/520.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/521.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/522.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/523.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/524.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/525.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/526.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/527.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/528.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/529.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/530.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/531.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/532.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/533.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/534.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/535.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/536.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/537.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/538.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/539.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/540.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/541.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/542.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/543.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/544.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/545.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/546.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/547.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/548.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/549.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/550.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/551.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/552.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/553.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/554.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/555.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/556.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/557.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/558.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/559.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/560.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/561.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/562.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/563.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/564.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/565.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/566.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/567.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/568.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/569.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/570.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/571.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/572.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/573.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/574.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/575.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/576.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/577.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/578.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/579.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/580.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/581.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/582.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/583.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/584.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/585.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/586.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/587.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/588.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/589.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/590.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/591.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/592.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/593.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/594.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/595.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/596.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/597.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/598.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/599.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/600.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/601.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/602.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/603.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/604.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/605.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/606.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/607.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/608.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/609.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/610.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/611.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/612.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/613.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/614.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/615.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/616.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/617.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/618.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/619.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/620.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/621.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/622.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/623.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/624.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/625.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/626.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/627.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/628.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/629.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/630.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/631.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/632.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/633.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/634.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/635.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/636.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/637.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/638.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/639.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/640.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/641.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/642.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/643.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/644.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/645.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/646.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/647.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/648.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/649.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ground truth/650.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/model_data/my_voc_classes.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/03_bus_result.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/03_car_result.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/03_plane_result.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/03_ship_result.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/plane.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/result/ship.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/train.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ui/design.ui" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/detectimg.py" afterPath="$PROJECT_DIR$/detectimg.py" />
+      <change beforePath="$PROJECT_DIR$/train.py" afterPath="$PROJECT_DIR$/train.py" />
+      <change beforePath="$PROJECT_DIR$/train_bottleneck.py" afterPath="$PROJECT_DIR$/train_bottleneck.py" />
+      <change beforePath="$PROJECT_DIR$/ui/main.py" afterPath="$PROJECT_DIR$/ui/main.py" />
+      <change beforePath="$PROJECT_DIR$/yolo.py" afterPath="$PROJECT_DIR$/yolo.py" />
+      <change beforePath="$PROJECT_DIR$/yolov3.cfg" afterPath="$PROJECT_DIR$/yolov3.cfg" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,63 +793,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="detectimg.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detectimg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-              <folding>
-                <element signature="e#193#235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output/test.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/main1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+            <state relative-caret-position="960">
+              <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="64" />
               <folding>
                 <element signature="e#193#235#0" expanded="true" />
               </folding>
@@ -74,28 +806,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yolo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yolo.py">
+      <file leaf-file-name="design.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="49" column="57" lean-forward="false" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="64" />
+              <folding>
+                <element signature="e#195#237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_bus_result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/03_bus_result.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yolov3.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yolov3.cfg">
+      <file leaf-file-name="03_car_result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/03_car_result.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_plane_result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/03_plane_result.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_ship_result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result/03_ship_result.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detectimg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detectimg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -110,24 +877,65 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>annotation_path</find>
+      <find>log_dir</find>
+      <find>batch</find>
+      <find>32</find>
+      <find>batch_size</find>
+      <find>h5</find>
+      <find>model_path</find>
+      <find>Epoch</find>
+      <find>trained_weights_stage</find>
+      <find>.h5</find>
+      <find>car</find>
+      <find>yolo</find>
+      <find>label_8</find>
+      <find>label_7</find>
+      <find>label_2</find>
+      <find>size</find>
+      <find>查看</find>
+      <find>textBrowser_2.setStyleSheet</find>
+      <find>geometry</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yolo.py" />
         <option value="$PROJECT_DIR$/ui/main1.py" />
         <option value="$PROJECT_DIR$/ui/main.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/model_data/coco_classes.txt" />
+        <option value="$PROJECT_DIR$/train.txt" />
+        <option value="$PROJECT_DIR$/deal.py" />
+        <option value="$PROJECT_DIR$/model_data/my_voc_classes.txt" />
+        <option value="$PROJECT_DIR$/yolov3.cfg" />
+        <option value="$PROJECT_DIR$/train_bottleneck.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/yolo.py" />
+        <option value="$PROJECT_DIR$/deal2.py" />
+        <option value="$PROJECT_DIR$/result/ship.txt" />
+        <option value="$PROJECT_DIR$/result/03_car_result.txt" />
+        <option value="$PROJECT_DIR$/result/03_bus_result.txt" />
+        <option value="$PROJECT_DIR$/result/plane.txt" />
+        <option value="$PROJECT_DIR$/result/03_plane_result.txt" />
+        <option value="$PROJECT_DIR$/result/03_ship_result.txt" />
+        <option value="$PROJECT_DIR$/gif.py" />
         <option value="$PROJECT_DIR$/detectimg.py" />
+        <option value="$PROJECT_DIR$/design.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="86" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-272" />
+    <option name="y" value="143" />
     <option name="width" value="1410" />
-    <option name="height" value="1076" />
+    <option name="height" value="1081" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -144,6 +952,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,21 +960,101 @@
               <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
               <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="ui_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="design.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="detectimg.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="detectimg.py" type="8704e2dd:PyFileNode" />
+              <item name="detect" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="main.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keras-yolo3" type="462c0819:PsiDirectoryNode" />
+              <item name="main.py" type="8704e2dd:PyFileNode" />
+              <item name="Ui_MainWindow" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Anaconda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keras-yolo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="image2gif" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
-    <property name="last_opened_file_path" value="D:/Anaconda/Anaconda/Scripts/pyuic5.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yolt" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharmProject\objDetect\keras-yolo3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PyCharmProject\objDetect\keras-yolo3" />
+      <recent name="D:\PyCharmProject\objDetect\keras-yolo3\ui" />
+      <recent name="D:\PyCharmProject\objDetect\keras-yolo3\model_data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,7 +1069,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.design">
+    <configuration name="deal2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras-yolo3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deal2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="design" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras-yolo3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/design.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="detectimg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,7 +1124,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="keras-yolo3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -217,34 +1160,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="keras-yolo3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.detectimg" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.deal2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.gif" />
+      <item index="3" class="java.lang.String" itemvalue="Python.design" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.design" />
         <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.detectimg" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gif" />
+        <item index="3" class="java.lang.String" itemvalue="Python.deal2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.detectimg" />
       </list>
     </recent_temporary>
   </component>
@@ -272,32 +1201,65 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-272" y="143" width="1410" height="1081" extended-state="0" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4940669" sideWeight="0.48044398" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42071196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4940669" sideWeight="0.51955605" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5480043" sideWeight="0.088794924" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5177229" sideWeight="0.91120505" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24487594" sideWeight="0.615222" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29281184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14778857" sideWeight="0.80073994" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5480043" sideWeight="0.088794924" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.91120505" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24487594" sideWeight="0.615222" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29281184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.49788582" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14778857" sideWeight="0.80073994" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -311,34 +1273,307 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ui/main.py</url>
-          <line>57</line>
+          <line>47</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ui/main.py</url>
-          <line>56</line>
+          <line>46</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ui/main.py</url>
-          <line>58</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>74</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deal.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deal.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yolov3.cfg">
+    <entry file="file://$PROJECT_DIR$/output/000195.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/test2.h5">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/000188.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo3/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/myyolo.h5">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ground truth/001.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov3-tiny.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/darknet53.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/my_voc_classes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco_annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/voc_annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/yolo.weights">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/yolo_anchors.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/test3.h5">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo.weights">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-844">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kmeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_data/coco_classes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_bottleneck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output3/2022.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output3/2001.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output3/2002.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output3/2003.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deal2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_xml/2344.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_xml/2336.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/plane.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="125" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/ship.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-647">
+          <caret line="76" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Anaconda/Lib/site-packages/image2gif/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov3.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="775" column="7" lean-forward="false" selection-start-line="775" selection-start-column="0" selection-end-line="775" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -347,62 +1582,99 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yolo.py">
+    <entry file="file://$PROJECT_DIR$/ui/design.ui">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui/main1.py">
+    <entry file="file://$PROJECT_DIR$/ui/design.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-          <folding>
-            <element signature="e#193#235#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ui/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="64" />
           <folding>
             <element signature="e#193#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/detectimg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+        <state relative-caret-position="930">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="36" selection-end-column="111" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/test.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detectimg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/result/03_bus_result.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/03_car_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/03_plane_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/03_ship_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="49" column="57" lean-forward="false" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="e#195#237#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

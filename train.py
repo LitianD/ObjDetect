@@ -14,9 +14,9 @@ from yolo3.utils import get_random_data
 
 
 def _main():
-    annotation_path = 'train.txt'
-    log_dir = 'logs/000/'
-    classes_path = 'model_data/voc_classes.txt'
+    annotation_path = 'train1.txt'
+    log_dir = 'logs/002/'
+    classes_path = 'model_data/my_voc_classes.txt'
     anchors_path = 'model_data/yolo_anchors.txt'
     class_names = get_classes(classes_path)
     num_classes = len(class_names)
@@ -54,7 +54,7 @@ def _main():
             # use custom yolo_loss Lambda layer.
             'yolo_loss': lambda y_true, y_pred: y_pred})
 
-        batch_size = 32
+        batch_size = 16
         print('Train on {} samples, val on {} samples, with batch size {}.'.format(num_train, num_val, batch_size))
         model.fit_generator(data_generator_wrapper(lines[:num_train], batch_size, input_shape, anchors, num_classes),
                 steps_per_epoch=max(1, num_train//batch_size),
@@ -73,7 +73,7 @@ def _main():
         model.compile(optimizer=Adam(lr=1e-4), loss={'yolo_loss': lambda y_true, y_pred: y_pred}) # recompile to apply the change
         print('Unfreeze all of the layers.')
 
-        batch_size = 32 # note that more GPU memory is required after unfreezing the body
+        batch_size = 16 # note that more GPU memory is required after unfreezing the body
         print('Train on {} samples, val on {} samples, with batch size {}.'.format(num_train, num_val, batch_size))
         model.fit_generator(data_generator_wrapper(lines[:num_train], batch_size, input_shape, anchors, num_classes),
             steps_per_epoch=max(1, num_train//batch_size),

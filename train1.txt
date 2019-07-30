@@ -1,0 +1,650 @@
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\001.jpg 563,478,630,573,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\002.jpg 575,114,635,162,0 72,305,133,369,0 210,317,273,384,0 306,374,344,420,0 447,531,535,632,0 546,605,625,707,0 632,680,720,790,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\003.jpg 100,256,170,319,0 575,139,668,240,0 753,382,843,484,0 313,648,415,764,0 434,674,527,787,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\004.jpg 227,106,268,155,0 318,126,370,185,0 445,88,516,168,0 363,336,438,420,0 455,331,529,415,0 68,316,170,411,0 69,423,180,525,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\005.jpg 401,596,443,636,0 606,138,668,199,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\006.jpg 135,412,182,472,0 295,420,347,470,0 369,363,415,419,0 444,320,534,432,0 608,171,704,255,0 656,62,754,157,0 317,555,386,627,0 479,695,542,769,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\007.jpg 278,546,361,630,0 362,476,434,545,0 361,315,457,411,0 574,199,666,293,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\008.jpg 208,361,272,418,0 234,429,289,481,0 322,473,376,540,0 313,631,384,697,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\009.jpg 167,184,232,241,0 423,146,456,174,0 652,73,694,123,0 726,223,786,289,0 627,508,680,560,0 556,519,606,579,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\010.jpg 221,53,265,95,0 147,254,192,297,0 442,631,493,685,0 657,485,736,564,0 846,77,925,149,0 210,349,261,397,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\011.jpg 182,251,280,347,0 286,226,378,322,0 403,178,453,222,0 635,149,731,241,0 664,245,775,344,0 696,346,807,439,0 752,451,820,514,0 736,531,817,608,0 683,590,739,644,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\012.jpg 537,163,587,209,0 332,686,376,735,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\013.jpg 55,9,168,114,0 79,133,160,203,0 72,230,163,320,0 61,325,166,427,0 65,437,169,536,0 287,74,380,168,0 280,191,386,296,0 283,321,390,423,0 285,435,390,540,0 474,211,578,312,0 562,60,668,158,0 564,332,668,424,0 567,437,665,531,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\014.jpg 44,259,123,334,0 292,313,371,400,0 360,245,443,323,0 437,171,513,245,0 507,96,585,172,0 579,31,660,109,0 740,65,811,140,0 660,275,736,356,0 921,159,1007,256,0 843,332,944,438,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\015.jpg 44,294,147,389,0 148,289,247,389,0 386,479,505,587,0 534,30,634,138,0 631,23,729,124,0 773,340,873,441,0 731,29,823,118,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\016.jpg 117,111,218,204,0 112,217,212,309,0 111,319,226,419,0 464,195,584,295,0 706,48,808,144,0 720,153,842,253,0 734,250,851,361,0 752,366,861,472,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\017.jpg 52,515,152,594,0 233,393,312,452,0 258,472,333,529,0 272,546,368,622,0 175,109,258,187,0 463,9,543,93,0 521,124,618,197,0 451,229,535,311,0 773,352,856,425,0 891,282,973,370,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\018.jpg 59,332,152,420,0 69,427,172,514,0 88,532,180,614,0 226,211,338,302,0 378,23,458,98,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\019.jpg 40,302,99,362,0 342,289,396,358,0 529,277,605,345,0 637,274,694,336,0 739,272,792,340,0 834,268,893,340,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\020.jpg 50,189,116,275,0 141,240,227,318,0 191,300,238,369,0 259,300,316,363,0 340,273,413,356,0 495,171,589,273,0 608,169,704,262,0 783,243,879,353,0 958,202,1035,287,0 1050,144,1141,252,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\021.jpg 108,60,192,154,0 204,58,313,160,0 327,46,432,151,0 444,69,543,169,0 556,91,651,181,0 658,67,765,172,0 792,81,882,172,0 903,57,1032,180,0 1035,70,1140,184,0 1146,78,1251,181,0 48,222,160,321,0 106,493,207,577,0 103,607,220,703,0 106,727,205,814,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\022.jpg 31,137,88,211,0 168,139,222,204,0 228,131,309,212,0 325,140,385,201,0 517,116,585,186,0 760,114,830,183,0 1023,98,1079,161,0 1008,12,1086,64,0 36,302,99,378,0 254,286,323,360,0 345,284,401,355,0 542,268,610,344,0 633,262,702,337,0 732,334,797,400,0 882,369,961,426,0 988,250,1055,324,0 1069,241,1137,322,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\023.jpg 50,725,97,771,0 360,481,410,539,0 520,369,565,421,0 571,330,617,381,0 561,620,611,682,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\024.jpg 34,120,95,189,0 104,119,163,184,0 172,111,230,175,0 243,113,300,175,0 307,108,369,170,0 377,101,439,162,0 450,94,503,156,0 508,88,562,143,0 644,88,695,152,0 702,80,754,143,0 763,77,815,139,0 826,80,882,143,0 885,74,939,137,0 942,69,998,131,0 1005,65,1059,127,0 1073,66,1123,126,0 84,274,140,343,0 287,264,356,336,0 372,268,419,332,0 607,252,668,306,0 746,223,814,294,0 899,235,951,296,0 959,220,1026,290,0 1034,225,1091,288,0 1106,211,1157,277,0 795,334,878,391,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\025.jpg 58,155,104,215,0 191,150,248,212,0 258,119,319,190,0 475,120,521,178,0 523,92,600,167,0 608,105,655,162,0 662,72,749,159,0 772,54,867,144,0 891,77,971,153,0 875,299,950,354,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\026.jpg 57,37,130,120,0 283,524,328,581,0 353,492,426,570,0 433,444,480,493,0 702,600,771,647,0 764,554,833,597,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\027.jpg 39,120,108,197,0 135,114,207,189,0 218,113,286,178,0 298,110,366,188,0 382,113,449,187,0 597,101,669,175,0 774,97,844,166,0 938,83,1002,157,0 965,31,1047,94,0 82,488,150,544,0 165,461,234,535,0 244,450,325,549,0 349,456,432,550,0 462,446,543,544,0 595,439,682,530,0 695,440,780,535,0 805,435,887,530,0 907,419,1007,532,0 1014,432,1068,487,0 478,214,546,290,0 475,350,544,398,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\028.jpg 92,454,197,550,0 400,19,508,131,0 374,344,486,460,0 375,481,457,560,0 540,374,619,434,0 541,495,651,613,0 665,326,740,418,0 815,390,869,475,0 902,400,959,480,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\029.jpg 66,186,142,272,0 204,191,268,260,0 297,190,361,261,0 374,197,433,255,0 448,199,505,251,0 621,194,686,256,0 27,417,104,501,0 142,419,242,524,0 262,420,341,510,0 364,422,443,518,0 587,438,641,501,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\030.jpg 92,178,154,233,0 191,180,240,235,0 261,182,320,236,0 404,184,454,232,0 563,184,623,236,0 633,186,697,239,0 774,183,831,232,0 61,349,121,406,0 219,347,283,406,0 563,378,628,446,0 657,362,703,423,0 740,353,788,417,0 920,345,981,409,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\031.jpg 167,74,240,162,0 265,86,344,175,0 68,440,141,520,0 149,413,224,491,0 254,407,326,483,0 353,410,438,500,0 453,412,537,503,0 707,422,788,516,0 810,434,883,511,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\032.jpg 21,258,97,333,0 109,216,180,288,0 209,262,281,346,0 297,219,368,288,0 436,258,507,347,0 508,229,582,294,0 613,279,691,357,0 682,232,757,300,0 796,282,874,352,0 861,235,934,302,0 975,285,1056,364,0 1038,243,1107,311,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\033.jpg 105,43,198,132,0 99,176,191,266,0 90,289,182,377,0 368,35,450,115,0 291,326,389,412,0 342,424,429,513,0 341,520,425,603,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\034.jpg 32,290,82,353,0 199,229,246,281,0 252,180,303,240,0 367,102,410,149,0 548,257,597,317,0 456,281,533,375,0 168,507,244,598,0 106,606,154,666,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\035.jpg 80,42,177,127,0 66,224,159,306,0 62,312,156,394,0 245,29,314,112,0 244,121,328,208,0 240,217,337,301,0 242,312,311,396,0 245,410,339,492,0 241,505,336,587,0 480,406,564,492,0 478,511,562,590,0 714,13,780,98,0 713,109,793,193,0 710,302,792,386,0 711,412,793,497,0 939,112,1023,194,0 938,206,1025,288,0 934,300,1023,385,0 932,501,1018,592,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\036.jpg 100,107,182,179,0 98,208,188,278,0 106,312,179,381,0 83,405,190,503,0 370,185,441,250,0 359,260,448,333,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\037.jpg 300,17,405,112,0 201,80,292,171,0 115,173,205,267,0 149,366,215,442,0 235,338,328,431,0 341,300,440,397,0 453,269,546,371,0 564,253,657,355,0 685,243,788,345,0 155,550,233,639,0 344,522,410,603,0 445,532,539,640,0 563,524,673,642,0 697,490,795,613,0 816,478,905,573,0 933,456,1017,556,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\038.jpg 74,61,152,167,0 70,248,156,333,0 74,441,182,537,0 256,53,337,145,0 332,175,423,262,0 321,263,429,351,0 337,354,422,440,0 350,534,437,620,0 626,95,709,169,0 624,169,706,258,0 635,331,743,432,0 774,28,851,122,0 847,229,956,321,0 858,404,966,490,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\039.jpg 38,118,150,193,0 23,485,120,555,0 474,125,565,195,0 450,178,549,248,0 473,336,565,410,0 454,400,551,463,0 454,503,552,572,0 472,556,565,627,0 938,31,1033,105,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\040.jpg 138,116,218,198,0 65,225,150,291,0 33,336,140,410,0 188,476,264,549,0 504,96,588,184,0 623,77,708,162,0 734,39,827,131,0 965,66,1059,140,0 1014,170,1095,245,0 1019,281,1127,366,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\041.jpg 38,256,120,343,0 202,266,287,355,0 341,237,430,347,0 483,223,571,320,0 624,196,713,315,0 771,194,855,294,0 913,182,999,276,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\042.jpg 275,124,347,186,0 315,193,385,255,0 339,284,407,343,0 341,379,420,445,0 351,467,428,533,0 619,145,693,218,0 625,236,699,308,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\043.jpg 104,29,200,107,0 99,122,198,200,0 99,216,192,294,0 113,318,192,374,0 108,408,195,476,0 102,489,197,573,0 99,584,197,666,0 305,6,396,95,0 303,135,387,210,0 300,267,386,341,0 296,369,392,455,0 297,479,392,563,0 306,585,393,666,0 540,12,633,87,0 542,125,629,201,0 540,252,630,336,0 468,384,561,473,0 537,491,632,569,0 539,582,635,657,0 746,132,819,189,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\044.jpg 25,193,84,243,0 81,112,153,173,0 121,40,201,107,0 216,44,264,100,0 292,31,363,101,0 378,29,439,90,0 38,287,115,368,0 117,326,187,411,0 206,216,290,278,0 320,174,380,243,0 407,166,468,231,0 479,160,559,246,0 579,172,639,236,0 655,155,733,236,0 862,190,910,249,0 357,363,432,451,0 454,361,531,448,0 539,358,626,450,0 375,514,463,612,0 481,513,558,596,0 579,511,658,607,0 638,367,721,445,0 674,515,755,606,0 768,506,853,605,0 885,363,941,424,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\045.jpg 264,92,368,189,0 585,113,646,172,0 642,518,702,574,0 651,647,709,702,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\046.jpg 59,254,138,303,0 92,327,167,375,0 449,354,548,422,0 539,503,627,573,0 639,209,711,264,0 795,48,875,110,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\047.jpg 83,84,159,144,0 38,177,152,266,0 41,290,159,380,0 66,414,129,480,0 23,486,102,543,0 17,567,102,626,0 344,32,419,90,0 324,113,408,172,0 335,195,423,255,0 314,342,392,406,0 290,429,383,491,0 336,510,425,570,0 233,564,290,647,0 348,579,426,663,0 744,90,819,144,0 737,168,807,222,0 723,245,800,296,0 681,312,750,383,0 699,398,785,459,0 693,537,770,599,0 695,624,770,692,0 780,633,852,687,0 989,12,1074,77,0 954,99,1043,156,0 1001,165,1085,222,0 1008,246,1085,320,0 950,357,1058,417,0 1008,437,1101,494,0 1023,519,1094,578,0 1025,620,1088,699,0 1121,225,1187,312,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\048.jpg 118,65,229,146,0 142,173,215,232,0 28,223,135,344,0 312,40,394,101,0 321,122,398,179,0 347,297,418,358,0 186,479,258,542,0 584,531,660,595,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\049.jpg 199,92,267,145,0 56,368,116,416,0 293,183,359,230,0 404,304,482,360,0 413,391,493,448,0 574,207,664,279,0 582,318,678,402,0 562,431,667,523,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\050.jpg 79,286,142,342,0 159,284,211,354,0 230,270,291,337,0 308,271,367,344,0 464,262,524,324,0 507,201,578,263,0 623,81,689,134,0 652,12,729,79,0 56,525,109,579,0 200,548,264,613,0 360,588,415,628,0 696,296,768,353,0 756,231,818,299,0 1020,398,1085,471,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\051.jpg 50,69,129,136,0 65,249,159,341,0 183,278,232,335,0 260,258,350,354,0 365,251,431,302,0 407,149,495,228,0 523,70,611,174,0 634,94,688,166,0 708,105,761,165,0 793,93,866,192,0 886,103,938,171,0 960,106,1013,182,0 60,496,140,585,0 150,479,230,573,0 254,489,332,575,0 362,563,417,603,0 695,318,749,377,0 762,322,811,382,0 830,324,874,383,0 890,329,938,382,0 692,526,738,572,0 816,533,868,576,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\052.jpg 44,100,154,173,0 49,221,160,303,0 72,355,165,423,0 348,205,442,279,0 366,461,459,528,0 610,61,698,120,0 621,187,701,243,0 641,319,709,372,0 641,413,715,469,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\053.jpg 54,63,126,128,0 54,228,125,293,0 51,399,122,463,0 50,486,135,552,0 285,155,367,204,0 291,346,355,387,0 279,413,359,462,0 310,504,370,549,0 387,234,444,316,0 478,89,532,167,0 553,294,640,341,0 573,361,639,406,0 589,426,651,470,0 817,173,884,240,0 817,308,873,348,0 807,374,869,413,0 837,503,890,552,0 920,496,968,554,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\054.jpg 178,120,248,186,0 171,319,232,374,0 384,105,446,156,0 376,410,455,463,0 509,241,575,316,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\055.jpg 698,253,788,350,0 422,444,493,506,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\056.jpg 278,478,324,512,0 133,719,188,784,0 253,729,324,793,0 226,662,301,728,0 260,606,314,676,0 319,585,381,658,0 492,604,570,707,0 618,656,691,719,0 605,736,678,801,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\057.jpg 71,326,128,381,0 566,580,635,633,0 634,442,688,504,0 850,244,914,302,0 861,325,924,384,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\058.jpg 141,333,209,393,0 228,350,297,409,0 77,461,150,528,0 168,477,242,545,0 20,557,90,616,0 343,511,416,578,0 361,622,414,711,0 435,636,488,722,0 528,653,573,718,0 597,428,642,485,0 662,437,701,491,0 824,565,900,629,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\059.jpg 66,300,154,380,0 436,302,474,345,0 550,142,589,198,0 529,229,567,273,0 570,238,608,280,0 782,445,865,526,0 759,559,845,631,0 757,626,829,694,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\060.jpg 83,632,176,708,0 527,66,595,115,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\061.jpg 764,206,821,254,0 712,288,820,379,0 667,387,748,455,0 575,581,657,655,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\062.jpg 357,521,433,590,0 846,394,938,503,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\063.jpg 219,349,323,436,0 91,537,197,625,0 521,440,588,524,0 718,117,758,165,0 798,516,883,623,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\064.jpg 199,452,251,500,0 396,93,430,125,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\065.jpg 362,191,419,253,0 437,253,465,289,0 250,544,285,580,0 192,599,263,665,0 141,660,194,711,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\066.jpg 263,390,352,498,0 371,433,445,526,0 496,371,587,471,0 695,512,791,629,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\067.jpg 207,676,293,757,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\068.jpg 222,363,274,421,0 362,272,410,314,0 498,170,559,231,0 466,479,495,511,0 539,673,592,734,0 768,237,809,282,0 787,296,831,340,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\069.jpg 208,540,268,595,0 441,501,472,530,0 565,288,618,339,0 651,430,689,479,0 719,575,775,645,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\070.jpg 377,40,409,73,0 60,144,95,181,0 98,178,172,241,0 142,249,199,298,0 232,367,288,416,0 381,553,461,633,0 444,660,484,705,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\071.jpg 40,82,102,134,0 74,134,147,194,0 170,253,221,303,0 211,308,276,368,0 382,227,416,262,0 430,290,468,323,0 409,540,449,590,0 486,510,526,551,0 555,421,603,483,0 632,633,687,699,0 691,584,745,649,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\072.jpg 425,173,470,222,0 405,392,452,447,0 560,465,606,528,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\073.jpg 158,371,209,436,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\074.jpg 348,311,393,359,0 634,412,679,467,0 615,636,660,678,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\075.jpg 159,315,234,387,0 486,435,533,479,0 726,435,803,508,0 791,512,878,595,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\076.jpg 135,82,197,148,0 202,94,263,160,0 270,102,335,168,0 44,503,80,538,0 583,449,650,510,0 720,87,792,161,0 748,21,813,85,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\077.jpg 369,518,401,552,0 401,396,457,447,0 678,75,719,117,0 691,309,729,352,0 745,291,789,336,0 800,277,843,322,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\078.jpg 304,66,385,151,0 402,45,455,100,0 313,488,370,537,0 417,542,470,599,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\079.jpg 164,95,240,168,0 512,474,578,567,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\080.jpg 236,116,312,188,0 452,290,544,366,0 517,370,588,437,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\277.jpg 259,336,287,403,1 895,409,956,437,1 984,395,1040,415,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\277.jpg 259,336,287,403,1 895,409,956,437,1 984,395,1040,415,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\277.jpg 259,336,287,403,1 895,409,956,437,1 984,395,1040,415,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\277.jpg 259,336,287,403,1 895,409,956,437,1 984,395,1040,415,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\277.jpg 259,336,287,403,1 895,409,956,437,1 984,395,1040,415,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\282.jpg 580,180,626,270,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\282.jpg 580,180,626,270,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\282.jpg 580,180,626,270,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\285.jpg 439,292,474,417,1 591,409,637,486,1 772,681,833,773,1 894,74,972,161,1 956,360,1045,458,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\286.jpg 154,370,215,439,0 470,596,554,660,1 780,520,843,593,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\287.jpg 106,55,195,77,1 402,53,494,77,1 508,55,597,79,1 36,89,83,165,1 73,429,164,452,1 278,458,353,479,1 560,561,587,652,1 805,435,890,459,1 971,442,1036,506,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\288.jpg 355,191,426,222,1 114,517,183,557,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\289.jpg 113,327,170,369,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\290.jpg 231,256,268,326,1 198,395,250,461,1 153,610,201,673,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\291.jpg 97,285,166,314,1 324,214,370,286,1 455,184,512,245,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\292.jpg 411,207,438,273,1 474,180,498,253,1 540,183,569,248,1 681,119,709,186,1 738,164,769,240,1 744,258,769,326,1 792,238,817,303,1 799,158,832,223,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\293.jpg 612,127,652,177,1 504,619,540,684,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\294.jpg 89,73,151,127,1 329,322,391,378,1 967,285,1007,325,1 866,530,901,603,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\295.jpg 287,106,346,189,1 368,118,423,201,1 206,186,269,278,1 291,218,352,314,1 323,332,382,418,1 539,366,609,457,1 626,419,687,509,1 717,437,775,530,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\296.jpg 123,48,217,104,1 732,56,791,143,1 362,570,428,610,1 672,555,752,579,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\297.jpg 99,127,165,182,1 355,193,426,223,1 462,394,529,452,1 116,519,184,554,1 576,620,643,650,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\298.jpg 108,49,181,101,1 180,273,230,348,1 767,278,853,327,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\299.jpg 98,91,140,187,1 323,187,360,251,1 494,539,551,608,1 533,633,579,705,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\300.jpg 70,119,161,144,1 377,364,452,418,1 534,266,588,341,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\301.jpg 41,131,82,174,0 196,99,255,159,0 820,63,896,136,1 1031,474,1106,545,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\302.jpg 447,402,539,444,1 794,469,888,499,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\303.jpg 146,134,197,202,1 264,314,291,380,1 307,581,352,629,1 421,75,457,137,1 589,84,628,144,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\304.jpg 481,152,525,202,1 567,238,612,287,1 533,319,591,381,1 504,339,569,409,1 435,408,487,466,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\305.jpg 624,334,663,410,1 774,197,812,266,1 743,423,785,498,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\306.jpg 549,428,601,495,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\307.jpg 401,65,421,98,1 449,159,466,189,1 619,513,644,543,1 843,596,863,627,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\308.jpg 458,228,529,295,1 766,175,835,208,1 126,271,202,320,1 24,529,91,552,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\309.jpg 777,289,872,332,1 332,369,360,442,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\310.jpg 70,140,167,175,1 685,500,721,619,1 846,427,893,523,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\311.jpg 451,300,549,411,1 730,58,843,186,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\311.jpg 451,300,549,411,1 730,58,843,186,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\311.jpg 451,300,549,411,1 730,58,843,186,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\311.jpg 451,300,549,411,1 730,58,843,186,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\315.jpg 216,157,271,277,1 163,558,274,657,1 463,537,546,642,1 720,54,789,157,1 957,60,1030,141,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\315.jpg 216,157,271,277,1 163,558,274,657,1 463,537,546,642,1 720,54,789,157,1 957,60,1030,141,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\315.jpg 216,157,271,277,1 163,558,274,657,1 463,537,546,642,1 720,54,789,157,1 957,60,1030,141,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\315.jpg 216,157,271,277,1 163,558,274,657,1 463,537,546,642,1 720,54,789,157,1 957,60,1030,141,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\315.jpg 216,157,271,277,1 163,558,274,657,1 463,537,546,642,1 720,54,789,157,1 957,60,1030,141,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\320.jpg 318,117,362,168,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\321.jpg 601,433,634,532,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\321.jpg 601,433,634,532,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\321.jpg 601,433,634,532,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\324.jpg 481,494,570,512,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\325.jpg 511,454,625,474,1 905,478,975,545,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\326.jpg 265,428,319,535,1 411,593,510,621,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\454.jpg 84,508,131,567,0 156,311,211,352,0 350,249,405,297,0 599,68,639,114,0 650,47,683,87,0 698,48,747,97,0 761,135,802,166,0 725,189,782,231,0 679,251,763,300,0 684,389,747,446,0 759,463,823,511,0 861,16,930,60,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\490.jpg 720,24,797,42,1 867,99,953,120,1 221,95,257,119,1 167,249,225,275,1 135,437,206,461,1 471,185,541,230,1 681,214,753,253,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\500.jpg 74,100,119,153,1 208,158,286,195,1 473,49,557,91,1 388,273,510,324,1 542,460,653,516,1 793,228,879,286,1 954,81,1032,126,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\501.jpg 63,245,121,318,1 363,102,401,174,1 509,31,543,99,1 467,250,517,331,1 751,269,786,354,1 987,104,1056,170,1 963,332,1023,406,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\502.jpg 442,61,474,132,1 653,200,724,264,1 436,379,524,473,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\503.jpg 62,445,106,497,1 93,281,165,346,1 266,329,317,382,1 345,96,392,160,1 523,25,580,60,1 645,150,691,215,1 664,248,740,299,1 502,411,585,442,1 803,60,859,92,1 877,93,934,123,1 909,248,970,275,1 847,425,916,492,1 998,70,1047,103,1 1065,158,1112,183,1 1134,127,1175,165,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\504.jpg 28,118,78,159,1 137,226,199,263,1 333,154,397,188,1 292,370,371,416,1 557,88,644,123,1 613,407,695,453,1 739,99,826,135,1 868,463,951,496,1 1009,58,1077,91,1 1083,185,1160,215,1 1155,448,1259,483,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\505.jpg 85,70,139,109,1 218,23,262,55,1 108,307,149,340,1 386,95,426,126,1 305,183,368,227,1 374,295,438,332,1 672,81,722,111,1 553,301,606,332,1 715,380,788,415,1 799,48,852,74,1 914,134,979,163,1 1081,88,1170,115,1 448,517,520,557,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\506.jpg 36,37,106,62,1 48,165,113,215,1 4,314,33,351,1 124,347,162,410,1 339,139,421,185,1 306,374,388,459,1 500,57,550,90,1 572,270,618,356,1 559,444,603,518,1 663,38,718,92,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\507.jpg 93,117,130,169,1 95,274,161,313,1 260,81,316,121,1 311,372,351,416,1 202,486,260,550,1 359,72,390,128,1 453,197,479,260,1 533,14,583,65,1 598,118,634,173,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\508.jpg 74,66,120,103,1 138,250,186,358,1 245,115,281,162,1 383,23,422,70,1 409,132,442,165,1 662,31,687,75,1 573,191,615,264,1 650,135,684,198,1 654,423,747,491,1 790,18,813,60,1 865,169,898,235,1 809,401,866,505,1 393,496,439,588,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\509.jpg 92,394,155,430,1 276,144,319,170,1 364,139,427,159,1 514,88,572,123,1 1008,354,1071,390,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\510.jpg 234,132,306,183,0 298,133,374,204,0 449,136,524,203,0 538,139,585,191,0 599,137,674,205,0 144,279,203,345,0 215,280,277,347,0 286,276,351,347,0 559,284,613,351,0 622,286,679,354,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\511.jpg 59,452,101,517,1 258,244,283,287,1 291,395,319,445,1 521,156,553,208,1 489,406,516,460,1 649,67,709,105,1 673,184,710,222,1 912,124,981,156,1 1061,127,1123,153,1 784,276,835,343,1 1027,276,1120,325,1 1043,445,1098,486,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\512.jpg 86,67,123,125,1 189,333,248,429,1 386,215,408,271,1 445,398,488,510,1 587,98,622,168,1 573,254,593,314,1 788,73,822,141,1 798,269,829,370,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\513.jpg 59,115,121,159,1 120,362,174,406,1 666,359,705,398,1 825,44,886,88,1 815,261,879,319,1 794,449,833,488,1 931,409,976,453,1 1059,212,1127,275,1 1061,357,1119,407,1 1131,501,1170,540,1 1117,18,1161,61,1 651,517,705,556,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\514.jpg 24,12,63,39,1 75,398,179,450,1 232,85,285,138,1 185,289,249,346,1 402,32,474,65,1 380,335,468,402,1 697,277,767,328,1 858,230,934,281,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\515.jpg 377,60,449,118,0 345,123,425,186,0 299,185,380,258,0 392,269,433,319,0 490,315,577,393,0 540,262,592,306,0 561,209,610,249,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\516.jpg 98,20,168,64,0 109,71,178,118,0 92,128,172,177,0 87,186,166,238,0 82,247,160,304,0 36,330,129,404,0 659,63,719,102,0 823,392,908,467,0 1048,391,1131,468,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\517.jpg 90,159,165,205,1 364,45,442,81,1 214,267,293,297,1 107,484,195,519,1 437,267,483,314,1 428,467,504,541,1 597,48,655,72,1 601,215,676,252,1 857,103,909,129,1 764,419,821,443,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\518.jpg 26,157,98,189,1 156,223,242,259,1 414,20,456,75,1 420,243,503,274,1 347,414,425,436,1 622,211,736,289,1 546,493,591,517,1 1079,198,1104,268,1 912,456,939,494,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\519.jpg 30,146,96,186,1 238,35,302,73,1 186,209,282,264,1 315,330,404,388,1 493,143,559,189,1 611,19,675,51,1 900,39,951,68,1 863,215,916,246,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\520.jpg 703,66,790,112,1 844,121,933,173,1 884,329,939,369,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\521.jpg 415,75,464,119,0 482,78,531,121,0 382,270,453,333,0 380,351,449,415,0 185,266,258,331,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\521.jpg 415,75,464,119,0 482,78,531,121,0 382,270,453,333,0 380,351,449,415,0 185,266,258,331,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\521.jpg 415,75,464,119,0 482,78,531,121,0 382,270,453,333,0 380,351,449,415,0 185,266,258,331,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\521.jpg 415,75,464,119,0 482,78,531,121,0 382,270,453,333,0 380,351,449,415,0 185,266,258,331,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\521.jpg 415,75,464,119,0 482,78,531,121,0 382,270,453,333,0 380,351,449,415,0 185,266,258,331,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\526.jpg 227,126,297,218,1 376,335,475,416,1 450,308,621,382,1 773,343,922,378,1 758,446,912,484,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\527.jpg 28,15,119,56,1 39,63,101,98,1 123,44,197,75,1 195,64,273,101,1 249,140,351,192,1 375,202,470,266,1 504,202,581,255,1 607,264,722,343,1 745,355,862,451,1 718,430,815,538,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\527.jpg 28,15,119,56,1 39,63,101,98,1 123,44,197,75,1 195,64,273,101,1 249,140,351,192,1 375,202,470,266,1 504,202,581,255,1 607,264,722,343,1 745,355,862,451,1 718,430,815,538,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\527.jpg 28,15,119,56,1 39,63,101,98,1 123,44,197,75,1 195,64,273,101,1 249,140,351,192,1 375,202,470,266,1 504,202,581,255,1 607,264,722,343,1 745,355,862,451,1 718,430,815,538,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\527.jpg 28,15,119,56,1 39,63,101,98,1 123,44,197,75,1 195,64,273,101,1 249,140,351,192,1 375,202,470,266,1 504,202,581,255,1 607,264,722,343,1 745,355,862,451,1 718,430,815,538,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\527.jpg 28,15,119,56,1 39,63,101,98,1 123,44,197,75,1 195,64,273,101,1 249,140,351,192,1 375,202,470,266,1 504,202,581,255,1 607,264,722,343,1 745,355,862,451,1 718,430,815,538,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\532.jpg 470,69,533,135,0 551,103,617,171,0 627,156,695,229,0 704,206,774,285,0 794,240,871,316,0 192,302,268,354,0 126,378,212,444,0 58,456,141,525,0 489,403,518,431,1 488,437,518,465,1
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\563.jpg 102,380,163,433,0 87,519,159,574,0 188,383,252,444,0 284,372,340,431,0 202,223,252,274,0 279,173,337,228,0 394,84,444,128,0 598,22,663,69,0 585,139,654,194,0 697,177,745,229,0 796,160,854,216,0 727,349,794,415,0 939,233,1000,287,0 914,304,983,357,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
+D:\PyCharmProject\objDetect\keras-yolo3\positiveimageset\\574.jpg 68,289,133,347,0 271,202,319,255,0 302,18,350,69,0 381,15,429,64,0 706,97,764,148,0 591,351,653,402,0 830,308,899,365,0 861,393,944,455,0 811,455,883,536,0
